@@ -1,0 +1,11 @@
+pinecone-client 
+pinecone-text
+pinecone-notebooks 
+tensorflow 
+huggingface
+os 
+langchain_huggingface
+langchain_pinecone
+langchain_tensorflow
+langchain_os
+langchain_pinecone_text
